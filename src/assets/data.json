@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Object 1",
+    "color": "red",
+    "shape": "round",
+    "height": 37,
+    "width": 43,
+    "length": 78,
+    "weight": 70
+  },
+  {
+    "name": "Object 2",
+    "color": "orange",
+    "shape": "rectangular",
+    "height": 45,
+    "width": 23,
+    "length": 56,
+    "weight": 34
+  },
+  {
+    "name": "Object 3",
+    "color": "blue",
+    "shape": "obtuse",
+    "height": 39,
+    "width": 18,
+    "length": 12,
+    "weight": 175
+  },
+  {
+    "name": "Object 4",
+    "color": "green",
+    "shape": "conic",
+    "height": 45,
+    "width": 23,
+    "length": 56,
+    "weight": 34
+  },
+  {
+    "name": "Object 5",
+    "color": "black",
+    "shape": "round",
+    "height": 37,
+    "width": 43,
+    "length": 78,
+    "weight": 34
+  },
+  {
+    "name": "Object 6",
+    "color": "orange",
+    "shape": "spherical",
+    "height": 23,
+    "width": 23,
+    "length": 23,
+    "weight": 88
+  },
+  {
+    "name": "Object 7",
+    "color": "yellow",
+    "shape": "obtuse",
+    "height": 17,
+    "width": 44,
+    "length": 8,
+    "weight": 32
+  },
+  {
+    "name": "Object 8",
+    "color": "red",
+    "shape": "rectangular",
+    "height": 45,
+    "width": 23,
+    "length": 56,
+    "weight": 34
+  },
+  {
+    "name": "Object 9",
+    "color": "blue",
+    "shape": "pyramid",
+    "height": 12,
+    "width": 23,
+    "length": 23,
+    "weight": 231
+  },
+  {
+    "name": "Object 10",
+    "color": "yellow",
+    "shape": "cylinder",
+    "height": 92,
+    "width": 92,
+    "length": 43,
+    "weight": 765
+  }
+]

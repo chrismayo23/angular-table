@@ -1,0 +1,14 @@
+<table>
+  <tr>
+    <th *ngFor="let col of columns">
+      {{ col }}
+      <span *ngIf="dimensions.includes(col)">(in)</span>
+      <span *ngIf="col === 'weight'">(lb)</span>
+    </th>
+  </tr>
+  <tr *ngFor="let obj of data">
+    <td *ngFor="let col of columns">
+      {{ obj[col] }}
+    </td>
+  </tr>
+</table>
